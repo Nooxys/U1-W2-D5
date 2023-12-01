@@ -1,0 +1,149 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #e9edee;
+}
+
+header {
+  background-color: #222f3f;
+}
+header img {
+  width: 120px;
+  padding-left: 2em;
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+}
+header a {
+  color: white;
+  text-decoration: none;
+}
+main {
+  margin-left: 5em;
+  margin-right: 5em;
+}
+main a {
+  color: white;
+  text-decoration: none;
+}
+#testa {
+  padding: 0.5em;
+  background-color: #364759;
+  color: white;
+  padding-left: 1em;
+}
+
+.navig {
+  padding-left: 1.5em;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+#arancione {
+  background-color: #f56600;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  padding: 0.5em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+#testata {
+  background-image: url(../images/bg-image.png);
+  background-size: 93%;
+  background-repeat: repeat;
+  text-align: center;
+  margin-bottom: 2em;
+}
+#testata h1 {
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  padding-top: 2.5em;
+  margin-bottom: 1em;
+}
+#testata p {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  padding-bottom: 2.5em;
+}
+#upperimages {
+  background-color: #ffffff;
+
+  /* border: solid 3px; */
+  margin-bottom: 2em;
+}
+
+#find {
+  color: black;
+  font-weight: bold;
+  padding-left: 2em;
+  display: block;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-size: 25px;
+}
+
+#upperimages span {
+  color: #6cabb0;
+  margin-left: 1em;
+  font-size: 20px;
+  font-weight: bold;
+}
+/* .quattro {
+  width: 100%;
+  border-radius: 30px;
+} */
+#upperimages img {
+  width: 22%;
+  margin-left: 2%;
+  height: 300px;
+  border-radius: 30px;
+  box-shadow: 10px 5px 5px #e1e5e8;
+  margin-bottom: 1em;
+  object-fit: cover;
+}
+
+#bottomimages p {
+  text-align: center;
+}
+
+#bottomimages img {
+  width: 100%;
+}
+
+#bottomimages p {
+  padding-bottom: 2em;
+  padding-top: 0.2em;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#bottomimages span {
+  color: #6cabb0;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 2em;
+}
+
+#coda {
+  background-color: #364759;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+footer img {
+  width: 250px;
+  padding-top: 3.5em;
+  padding-bottom: 3.5em;
+}
+footer {
+  background-color: #222f3f;
+  text-align: center;
+}
+
+footer a {
+  color: white;
+}
